@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My Mobile App Single Score Icon">495891c32fb1301043a3db9df699b60e</icon>
+        <name>My Mobile App Single Score</name>
+        <report display_value="My Mobile Report">a586d5072fb1301043a3db9df699b6f6</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:29:56</sys_created_on>
+        <sys_id>295851872fb1301043a3db9df699b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Mobile App Single Score</sys_name>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_295851872fb1301043a3db9df699b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:29:56</sys_updated_on>
+        <type>report</type>
+        <use_last_point>true</use_last_point>
+        <widget/>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="DELETE" query="documentkey=295851872fb1301043a3db9df699b6d1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</application>
+        <file_path/>
+        <instance_id>39066f9adb4f0c1042b321c405961983</instance_id>
+        <instance_name>dev101501</instance_name>
+        <name>sys_sg_chart_screen_295851872fb1301043a3db9df699b6d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen"><sys_sg_chart_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="My Mobile App Single Score Icon">495891c32fb1301043a3db9df699b60e</icon><name>My Mobile App Single Score</name><report display_value="My Mobile Report">a586d5072fb1301043a3db9df699b6f6</report><roles_override/><sys_class_name>sys_sg_chart_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-10 13:29:56</sys_created_on><sys_id>295851872fb1301043a3db9df699b6d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Mobile App Single Score</sys_name><sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package><sys_policy/><sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope><sys_update_name>sys_sg_chart_screen_295851872fb1301043a3db9df699b6d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-10 13:29:56</sys_updated_on><type>report</type><use_last_point>true</use_last_point><widget/></sys_sg_chart_screen><sys_translated_text action="delete_multiple" query="documentkey=295851872fb1301043a3db9df699b6d1"/></record_update>]]></payload>
+        <payload_hash>-997662668</payload_hash>
+        <record_name>My Mobile App Single Score</record_name>
+        <reverted_from/>
+        <source>c274ec432f31301043a3db9df699b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:29:56</sys_created_on>
+        <sys_id>376891c32fb1301043a3db9df699b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b304161870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:29:56</sys_updated_on>
+        <type>Chart screen</type>
+        <update_guid>3f6891c3c0b13010b481f68ba11d34d7</update_guid>
+        <update_guid_history>3f6891c3c0b13010b481f68ba11d34d7:-997662668</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:48:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_chart_screen">sys_sg_chart_screen</sys_db_object>
+        <sys_id>50e2f8c8dd284e2ca8cbe6c63b7f5b24</sys_id>
+        <sys_metadata>295851872fb1301043a3db9df699b6d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Mobile App Single Score</sys_name>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_scope_delete display_value="">52e310ae1a0b475783ce69b0a428cec9</sys_scope_delete>
+        <sys_update_name>sys_sg_chart_screen_295851872fb1301043a3db9df699b6d1</sys_update_name>
+        <sys_update_version display_value="sys_sg_chart_screen_295851872fb1301043a3db9df699b6d1">376891c32fb1301043a3db9df699b6d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:48:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

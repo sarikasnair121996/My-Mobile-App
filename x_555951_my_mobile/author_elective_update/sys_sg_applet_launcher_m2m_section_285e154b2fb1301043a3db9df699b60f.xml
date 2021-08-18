@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="My Mobile App Dashboard">80a855872fb1301043a3db9df699b615</applet_launcher>
+        <order>10</order>
+        <section display_value="My Mobile Report">205e154b2fb1301043a3db9df699b60d</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:55:40</sys_created_on>
+        <sys_id>285e154b2fb1301043a3db9df699b60f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_285e154b2fb1301043a3db9df699b60f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:55:40</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</application>
+        <file_path/>
+        <instance_id>39066f9adb4f0c1042b321c405961983</instance_id>
+        <instance_name>dev101501</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_285e154b2fb1301043a3db9df699b60f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="My Mobile App Dashboard">80a855872fb1301043a3db9df699b615</applet_launcher><order>10</order><section display_value="My Mobile Report">205e154b2fb1301043a3db9df699b60d</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-10 13:55:40</sys_created_on><sys_id>285e154b2fb1301043a3db9df699b60f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package><sys_policy/><sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_285e154b2fb1301043a3db9df699b60f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-10 13:55:40</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>1849439987</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c274ec432f31301043a3db9df699b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:55:40</sys_created_on>
+        <sys_id>a85e958b2fb1301043a3db9df699b66e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b3058f02b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:55:40</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>a05e958b93b13010515dfeb07eaf066e</update_guid>
+        <update_guid_history>a05e958b93b13010515dfeb07eaf066e:1849439987</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:59:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>02260070215d49e081221074f4e26ac4</sys_id>
+        <sys_metadata>285e154b2fb1301043a3db9df699b60f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_scope_delete display_value="">52e310ae1a0b475783ce69b0a428cec9</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_285e154b2fb1301043a3db9df699b60f</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_285e154b2fb1301043a3db9df699b60f">a85e958b2fb1301043a3db9df699b66e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:59:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>77531d832fb1301043a3db9df699b6d7</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:31:08</sys_created_on>
+        <sys_id>d9b85d072fb1301043a3db9df699b6e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Mobile count</sys_name>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_update_name>sys_sg_chart_section_d9b85d072fb1301043a3db9df699b6e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:31:08</sys_updated_on>
+        <table/>
+        <title>My Mobile count</title>
+        <type>single_score</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>

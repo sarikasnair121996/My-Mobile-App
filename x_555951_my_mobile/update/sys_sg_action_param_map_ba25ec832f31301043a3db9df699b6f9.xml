@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (My Mobile Table)">7625ec832f31301043a3db9df699b6f6</button>
+        <item_parameter display_value="My Mobile Table short_description">fe25ec832f31301043a3db9df699b6f3</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 09:45:57</sys_created_on>
+        <sys_id>ba25ec832f31301043a3db9df699b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fe25ec832f31301043a3db9df699b6f3</sys_name>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ba25ec832f31301043a3db9df699b6f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 09:45:57</sys_updated_on>
+        <ui_parameter display_value="Short description">b625ec832f31301043a3db9df699b6f7</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

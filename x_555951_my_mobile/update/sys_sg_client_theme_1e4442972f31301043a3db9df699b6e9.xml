@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_client_theme">
+    <sys_sg_client_theme action="INSERT_OR_UPDATE">
+        <name>My Mobile Theme</name>
+        <palette>{"Brand":"#0F4570","Secondary":"#267FC6","Primary":"#7790B1","Destructive":"#BB1C1C"}</palette>
+        <sys_class_name>sys_sg_client_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-11 11:21:54</sys_created_on>
+        <sys_id>1e4442972f31301043a3db9df699b6e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Mobile Theme</sys_name>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_update_name>sys_sg_client_theme_1e4442972f31301043a3db9df699b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-11 11:21:54</sys_updated_on>
+    </sys_sg_client_theme>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e4442972f31301043a3db9df699b6e9"/>
+</record_update>

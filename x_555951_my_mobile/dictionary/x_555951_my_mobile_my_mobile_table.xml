@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="My Mobile Table" max_length="40" name="x_555951_my_mobile_my_mobile_table" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="New Field" max_length="40" name="new_field" type="string"/>
+    </element>
+</database>

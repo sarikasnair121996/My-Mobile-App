@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Go to Mobile shopping">fa8d74072f71301043a3db9df699b658</jump_to_screen>
+        <name>My Mobile Chart</name>
+        <report display_value="My Mobile Report">a586d5072fb1301043a3db9df699b6f6</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:22:28</sys_created_on>
+        <sys_id>77531d832fb1301043a3db9df699b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Mobile Chart</sys_name>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_update_name>sys_sg_chart_77531d832fb1301043a3db9df699b6d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:22:28</sys_updated_on>
+        <title>My Mobile Shopping Chart</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

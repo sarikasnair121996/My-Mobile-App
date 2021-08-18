@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">d437e8072f31301043a3db9df699b69a</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">1037a0072f31301043a3db9df699b6d9</icon>
+        <label>My Mobile Applet Launcher Launcher Button Instance</label>
+        <location>top</location>
+        <name>My Mobile Applet Launcher Launcher Button Instance</name>
+        <order/>
+        <parent>9837a0072f31301043a3db9df699b6d6</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 09:54:48</sys_created_on>
+        <sys_id>1837e8072f31301043a3db9df699b69d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Mobile Applet Launcher Launcher Button Instance</sys_name>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1837e8072f31301043a3db9df699b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 09:54:48</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=1837e8072f31301043a3db9df699b69d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</application>
+        <file_path/>
+        <instance_id>39066f9adb4f0c1042b321c405961983</instance_id>
+        <instance_name>dev101501</instance_name>
+        <name>sys_sg_button_instance_1837e8072f31301043a3db9df699b69d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">d437e8072f31301043a3db9df699b69a</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">1037a0072f31301043a3db9df699b6d9</icon><label>My Mobile Applet Launcher Launcher Button Instance</label><location>top</location><name>My Mobile Applet Launcher Launcher Button Instance</name><order/><parent>9837a0072f31301043a3db9df699b6d6</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-10 09:54:48</sys_created_on><sys_id>1837e8072f31301043a3db9df699b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Mobile Applet Launcher Launcher Button Instance</sys_name><sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package><sys_policy/><sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope><sys_update_name>sys_sg_button_instance_1837e8072f31301043a3db9df699b69d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-10 09:54:48</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=1837e8072f31301043a3db9df699b69d"/></record_update>]]></payload>
+        <payload_hash>-1111750673</payload_hash>
+        <record_name>My Mobile Applet Launcher Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>c274ec432f31301043a3db9df699b6ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 09:54:48</sys_created_on>
+        <sys_id>9037e8072f31301043a3db9df699b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b2f7c6b220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 09:54:48</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>9837e807cf31301003a3d8e4b5b26a9f</update_guid>
+        <update_guid_history>9837e807cf31301003a3d8e4b5b26a9f:-1111750673</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 10:00:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>0c252bcbf32743a08c6e50a696cb23e4</sys_id>
+        <sys_metadata>1837e8072f31301043a3db9df699b69d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Mobile Applet Launcher Launcher Button Instance</sys_name>
+        <sys_package display_value="My Mobile App" source="x_555951_my_mobile">4274ec432f31301043a3db9df699b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Mobile App">4274ec432f31301043a3db9df699b6e8</sys_scope>
+        <sys_scope_delete display_value="">52e310ae1a0b475783ce69b0a428cec9</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_1837e8072f31301043a3db9df699b69d</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_1837e8072f31301043a3db9df699b69d">9037e8072f31301043a3db9df699b6a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 10:00:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

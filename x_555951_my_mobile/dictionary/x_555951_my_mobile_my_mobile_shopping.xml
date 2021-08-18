@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Mobile Shopping " max_length="40" name="x_555951_my_mobile_my_mobile_shopping" sizeclass="15" type="collection">
+        <element label="Address" max_length="200" name="address" type="string"/>
+        <element label="Email Id" max_length="40" name="email_id" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="Price" max_length="20" name="price" type="price"/>
+        <element label="Shopping Item" max_length="40" name="shopping_item" type="string"/>
+    </element>
+</database>
